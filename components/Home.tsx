@@ -48,7 +48,7 @@ function Home() {
             </Link>
             <Link
               className="flex rounded-full p-4 bg-white focus:scale-110  hover:scale-110 active:scale-105 hover:shadow-lg"
-              href="https://github.com/Ader-EX"
+              href="https://www.linkedin.com/in/muhammad-fadhil-musyaffa-90b402226/"
             >
               <Image
                 src={ldLogo}
