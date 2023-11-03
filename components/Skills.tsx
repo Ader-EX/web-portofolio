@@ -1,6 +1,6 @@
 "use client";
 import { skillsData } from "@/app/lib/datas";
-import { animate, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import React from "react";
 
 const fadeInAnimationVariants = {

@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import { Typewriter, Cursor } from "react-simple-typewriter";
+import { Typewriter } from "react-simple-typewriter";
 import ldLogo from "@/app/img/linkedin.png";
 import myPhoto from "@/app/img/me.png";
 import { motion } from "framer-motion";

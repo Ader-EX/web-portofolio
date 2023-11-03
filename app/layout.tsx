@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "./globals.css";
-import favicon from "@/app/favicon/favicon.ico";
+
 import Footer from "@/components/Footer";
 
 import Header from "@/components/Header";
